@@ -1,0 +1,11 @@
+{
+  "panelType": "xboard",
+  "panels": {
+    "mihomo": [
+      {
+        "url": "https://panel.rusboost.com",
+        "description": "主面板"
+      }
+    ]
+  }
+}
