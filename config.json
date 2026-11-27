@@ -1,11 +1,4 @@
 {
-  "panelType": "xboard",
-  "panels": {
-    "mihomo": [
-      {
-        "url": "https://panel.rusboost.com",
-        "description": "主面板"
-      }
-    ]
-  }
+  "payload": "eyJ2ZXJzaW9uIjoxLCJleHBpcmVzQXQiOiIyMDI3LTAyLTI1VDA4OjU2OjQyWiIsImNvbmZpZyI6eyJwYW5lbFR5cGUiOiJ4Ym9hcmQiLCJwYW5lbHMiOnsibWlob21vIjpbeyJ1cmwiOiJodHRwczovL3BhbmVsLnJ1c2Jvb3N0LmNvbSIsImRlc2NyaXB0aW9uIjoi5Li76Z2i5p2/In1dfX19",
+  "signature": "ldf0c5DI06jzOBQx6+56vx5T1mH47sK5ueGMxQTJfdwxTFVZtyXlL4NCVSaeyTRoUBMIs55o0hw+h4MvjiMWAA=="
 }
